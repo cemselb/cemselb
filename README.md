@@ -48,17 +48,17 @@ Currently leading computational strategies to develop non-invasive diagnostics f
 
 ## 📊 Live Research Impact
 
-<p align="left">
-  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">
-    <img src="https://vercel-citations.vercel.app/api/simple?id=YOUR_SCHOLAR_ID" alt="Google Scholar Citations" width="450px">
-  </a>
-</p>
-
 | Resource | Link | Badge |
 | :--- | :--- | :--- |
-| **Google Scholar** | [Cemsel Bafligil Suomi](https://scholar.google.com/citations?user=HlVB_DwAAAAJ) | ![Citations](https://img.shields.io/badge/Scholar-View%20Citations-4285F4?logo=google-scholar&logoColor=white) |
+| **Google Scholar** | [Cemsel Bafligil Suomi](https://scholar.google.com/citations?user=HlVB_DwAAAAJ) | ![Scholar](https://img.shields.io/badge/Scholar-View%20Citations-4285F4?logo=google-scholar&logoColor=white) |
 | **ORCID** | [0000-0002-2365-1194](https://orcid.org/0000-0002-2365-1194) | ![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2365--1194-A6CE39?logo=orcid&logoColor=white) | |
 | **ResearchGate** | [Cemsel Bafligil](https://www.researchgate.net/profile/Cemsel-Bafligil) | ![ResearchGate](https://img.shields.io/badge/ResearchGate-Check%20Impact-00ccbb?logo=researchgate) | |
+
+---
+
+## 📚 Publications
+Find my up-to-date publication list:
+[👉 View my full publication list here](./PUBLICATIONS.md)
 
 ---
 
