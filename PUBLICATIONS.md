@@ -1,12 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="8" class="">
-    <defs>
-        <style/>
-    </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
-    <style/>
-    <foreignObject x="0" y="0" width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
-        </div>
-        <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
-    </foreignObject>
-</svg>
+# Research Publications
+Latest research findings for Cemsel Bafligil Suomi, PhD, synced from [ORCID: 0000-0002-2365-1194](https://orcid.org/0000-0002-2365-1194).
+
+Last updated: 2026-05-15
+
+- **Beyond one-size-fits-all: single-cell transcriptomic signatures predict drug efficacy and reveal responder subgroups in endometriosis** (2025)
+- **Whole-genome methylation profiling of menstrual stem cells identifies novel biomarkers for endometriosis** (2025)
+- **Whole-genome methylation profiling of menstrual stem cells identifies novel biomarkers for endometriosis** (2025)
+- **Modelling Endometriosis Using In Vitro and In Vivo Systems** (2025)
+- **Single-cell characterization of menstrual fluid at homeostasis and in endometriosis** (2024)
+- **Uncovering genetic mimics in multiple sclerosis: A single-center clinical exome sequencing study** (2024)
+- **A Genetic Risk Variant for Multiple Sclerosis Severity is Associated with Brain Atrophy** (2023)
+- **Child and adult adiposity and subtype-specific endometrial cancer risk: a multivariable Mendelian randomisation study** (2023)
+- **Exome-based gene panel analysis in a cohort of acute juvenile ischemic stroke patients:relevance of NOTCH3 and GLA variants** (2023)
+- **Multi-trait genome-wide association study identifies a novel endometrial cancer risk locus that associates with testosterone levels** (2023)
+- **Development and evaluation of polygenic risk scores for prediction of endometrial cancer risk in European women** (2022)
+- **Multi-trait genome-wide association study identifies novel endometrial cancer risk loci that are associated with obesity or female testosterone levels** (2021)
+- **Neuropeptide S receptor 1 is a nonhormonal treatment target in endometriosis** (2021)
+- **Association between genetic polymorphisms and endometrial cancer risk: a systematic review.** (2020)
+- **Mass cytometry analysis reveals a distinct immune environment in peritoneal fluid in endometriosis: a characterisation study** (2020)
+- **Amine oxidase 3 is a novel pro-inflammatory marker of oxidative stress in peritoneal endometriosis lesions** (2020)
+- **Author Correction: Amine oxidase 3 is a novel pro-inflammatory marker of oxidative stress in peritoneal endometriosis lesions (Scientific Reports, (2020), 10, 1, (1495), 10.1038/s41598-020-58362-3)** (2020)
+- **BRCA1 and BRCA2 pathogenic variant carriers and endometrial cancer risk: A cohort study** (2020)
+- **Quantitative Characterization by Mass Cytometry Reveals a Complex Immune Environment and Activation Pattern in the Peritoneal Fluid of Endometriosis Patients** (2018)
+- **The Medium-Chain Free Fatty Acid Receptor GPR84 in Endometriosis Associated Pain.** (2018)
+- **TGM2 Is Highly Expressed and Active in Endometriosis Where It Mediates Pro-Fibrotic and Pro-Inflammatory Effects.** (2017)
+- **Retracing the Macrophage Axis and Its Activation in Endometriosis.** (2016)
+- **Single-cell characterization of menstrual fluid at homeostasis and in endometriosis** (n.d.)
+- **Single-cell characterization of menstrual fluid at homeostasis and in endometriosis** (n.d.)
