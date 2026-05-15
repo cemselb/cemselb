@@ -2,31 +2,34 @@ name: Update Publications
 
 on:
   schedule:
-    - cron: '0 0 * * 0' # Runs every Sunday at midnight
-  workflow_dispatch: # Allows to run it manually
+    - cron: '0 0 * * 0' # Weekly sync
+  workflow_dispatch: 
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   update-publications:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Essential for the bot to save the file
+      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Fetch and Format ORCID Publications
         run: |
-          # 1. Fetch the data from ORCID
+          # Fetch ORCID data
           curl -H "Accept: application/json" "https://pub.orcid.org/v3.0/0000-0002-2365-1194/works" > orcid.json
           
-          # 2. Initialize the PUBLICATIONS.md file
+          # Initialize the file
           echo "# Research Publications" > PUBLICATIONS.md
-          echo "Latest research findings for Cemsel Bafligil Suomi, PhD, synced from [ORCID: 0000-0002-2365-1194](https://orcid.org/0000-0002-2365-1194)." >> PUBLICATIONS.md
+          echo "Latest research findings for Cemsel Bafligil Suomi synced from [ORCID: 0000-0002-2365-1194](https://orcid.org/0000-0002-2365-1194)." >> PUBLICATIONS.md
           echo "" >> PUBLICATIONS.md
           echo "Last updated: $(date +'%Y-%m-%d')" >> PUBLICATIONS.md
           echo "" >> PUBLICATIONS.md
           
-          # 3. Extract titles and years using jq
+          # Extract and format titles/years
           jq -r '.group[] | .["work-summary"][0] | "- **" + .title.title.value + "** (" + (."publication-date".year.value // "n.d.") + ")"' orcid.json >> PUBLICATIONS.md
 
       - name: Commit and Push changes
@@ -34,5 +37,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add PUBLICATIONS.md
-          # Only commit if there are changes
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update publication list from ORCID" && git push)
