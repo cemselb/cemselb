@@ -52,6 +52,8 @@ Currently leading computational strategies to develop non-invasive diagnostics f
 | :--- | :--- | :--- |
 | **Google Scholar** | [Cemsel Bafligil Suomi](https://scholar.google.com/citations?user=HlVB_DwAAAAJ) | ![Scholar](https://img.shields.io/badge/Scholar-View%20Citations-4285F4?logo=google-scholar&logoColor=white) |
 | **ORCID** | [0000-0002-2365-1194](https://orcid.org/0000-0002-2365-1194) | ![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2365--1194-A6CE39?logo=orcid&logoColor=white) | |
+|**Zenodo** | [https://zenodo.org](https://doi.org/10.5281/zenodo.1587828) | ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15878285.svg)
+
 
 ---
 
