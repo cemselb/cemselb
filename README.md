@@ -15,11 +15,11 @@ Currently leading computational strategies to develop non-invasive diagnostics f
 
 ## 🛠️ Technical Stack
 
-| Category | Tools & Technologies |
+| Category | Tools & Packages |
 | :--- | :--- |
-| **Languages** | R (Bioconductor), Python, Bash, Perl, LaTeX  |
+| **Languages** | R, Python, Bash, Perl, LaTeX  |
 | **Bioinformatics** | Whole Genome Methylation, scRNA-seq & Bulk RNA-seq, GWAS, WES  |
-| **Workflow & DevOps** | Nextflow, Docker, Conda/Mamba, Git  |
+| **Workflow & Pipeline Management** | Conda/Mamba, Git, Docker, Nextflow |
 | **Infrastructure** | AWS Cloud Computing, HPC  |
 | **Biostatistics** | Polygenic Risk Scores (PRS), Regression Models, PCA/UMAP  |
 
@@ -34,7 +34,7 @@ Currently leading computational strategies to develop non-invasive diagnostics f
 
 ### 🎗️ Oncology & Neurology
 * **Endometrial Cancer**: Developed and validated a novel PRS using Manchester, UK Biobank and ECAC data.
-* **Neurological Disorders**: Identified genetic biomarkers for Multiple Sclerosis using large-scale biobank data.
+* **Neurological Disorders**: Performed GWAS and meta-analyses for multiple sclerosis using large-scale biobank data (IMSGC, MultipleMS).
 
 ---
 
