@@ -39,8 +39,8 @@ Currently leading computational strategies to develop non-invasive diagnostics f
 ---
 
 ## 📚 Selected Publications
+* **Tiniakou et al., 2026**: Whole genome methylation profiling of menstrual stem cells identifies novel biomarkers for endometriosis (*Commun Med*).
 * **Pérez-Moraga et al., 2025**: Beyond one-size-fits-all: single-cell transcriptomic signatures predict drug efficacy and reveal responder subgroups in endometriosis (*bioRxiv*).
-* **Tiniakou et al., 2025**: Whole-genome methylation profiling of menstrual stem cells identifies novel biomarkers for endometriosis (*bioRxiv*).
 * **Bafligil et al., 2022**: Development and evaluation of polygenic risk scores for prediction of endometrial cancer risk in European women (*Genet Med*).
 * **Tapmeier et al., 2021**: Neuropeptide S receptor 1 is a nonhormonal treatment target in endometriosis (*Sci Transl Med*).
 
