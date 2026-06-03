@@ -1,4 +1,4 @@
-# Hi there, I'm Cemsel Bafligil Suomi 👋
+# Hello, I'm Cemsel 👋
 
 ### Senior Bioinformatics Scientist | Multi-omics & Biomarker Discovery 
 Currently leading computational strategies to develop non-invasive diagnostics for endometriosis at **EndoGene.Bio**.
