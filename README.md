@@ -60,6 +60,8 @@ Currently leading computational strategies to develop non-invasive diagnostics f
   <img src="https://github-readme-stats.shion.dev/api?username=cemselb&show_icons=true&theme=transparent" alt="Cemsel's GitHub Stats" />
 </p>
 
+![](https://komarev.com/ghpvc/?username=cemselb)
+
 ---
 
 ## 📫 Connect with Me
