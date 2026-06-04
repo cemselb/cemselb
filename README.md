@@ -56,11 +56,15 @@ Currently leading computational strategies to develop non-invasive diagnostics f
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+![](https://komarev.com/ghpvc/?username=cemselb)
+
+<p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=cemselb&show_icons=true&theme=transparent" alt="Cemsel's GitHub Stats" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=cemselb)
+<p align="left">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=cemselb&layout=compact&theme=transparent" alt="Cemsel's Top Languages" />
+</p>
 
 ---
 
