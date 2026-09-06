@@ -1,7 +1,7 @@
 # Research Publications
 Latest research findings for Cemsel Bafligil Suomi synced from [ORCID: 0000-0002-2365-1194](https://orcid.org/0000-0002-2365-1194).
 
-Last updated: 2026-08-30
+Last updated: 2026-09-06
 
 - **Whole genome methylation profiling of menstrual stem cells identifies novel biomarkers for endometriosis** (2026)
 - **Beyond one-size-fits-all: single-cell transcriptomic signatures predict drug efficacy and reveal responder subgroups in endometriosis** (2025)
