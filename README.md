@@ -1,7 +1,7 @@
 # Hello, I'm Cemsel 👋
 
 ### Senior Bioinformatics Scientist | Multi-omics & Biomarker Discovery | Precision Medicine
-Currently leading computational strategies to develop non-invasive diagnostics for endometriosis at **EndoGene.Bio**.
+Currently leading computational strategies to develop non-invasive diagnostics for endometriosis at **endogene.bio**.
 
 ---
 
